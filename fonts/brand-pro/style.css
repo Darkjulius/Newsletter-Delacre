@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Brand Pro';
+    src: local('Brand Pro Regular'), local('Brand-Pro-Regular'),
+        url('BrandPro.woff2') format('woff2'),
+        url('BrandPro.woff') format('woff'),
+        url('BrandPro.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
